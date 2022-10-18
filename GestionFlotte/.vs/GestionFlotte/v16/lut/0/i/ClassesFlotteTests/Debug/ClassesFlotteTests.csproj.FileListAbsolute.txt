@@ -1,0 +1,5 @@
+Z:\Eval01\GestionFlotte\.vs\GestionFlotte\v16\lut\0\b\ClassesFlotteTests\bin\Debug\ClassesFlotteTests.dll
+Z:\Eval01\GestionFlotte\.vs\GestionFlotte\v16\lut\0\i\ClassesFlotteTests\Debug\ClassesFlotteTests.csproj.AssemblyReference.cache
+Z:\Eval01\GestionFlotte\.vs\GestionFlotte\v16\lut\0\i\ClassesFlotteTests\Debug\ClassesFlotteTests.csproj.CoreCompileInputs.cache
+Z:\Eval01\GestionFlotte\.vs\GestionFlotte\v16\lut\0\i\ClassesFlotteTests\Debug\ClassesFlotteTests.csproj.CopyComplete
+Z:\Eval01\GestionFlotte\.vs\GestionFlotte\v16\lut\0\i\ClassesFlotteTests\Debug\ClassesFlotteTests.dll
